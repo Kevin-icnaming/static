@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'ADAMCGPRO';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://cdn.jsdelivr.net/gh/Kevin-icnaming/static@main/ADAM.CGPRO.woff) format('woff');
+}
+@font-face {
+    font-family: 'ErasDemiITC';
+    font-style: normal;
+    src: url(https://cdn.jsdelivr.net/gh/Kevin-icnaming/static@main/ITCErasStd-Demi.woff) format('woff');
+}
